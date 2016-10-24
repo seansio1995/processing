@@ -1,7 +1,7 @@
 //Ball b1;
 //Ball b2;
 //Ball b3;
-int size=20;
+int size=40;
 Ball[] balls=new Ball[size];
 void setup()
 {
